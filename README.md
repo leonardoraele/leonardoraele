@@ -1,4 +1,6 @@
-![Profile views](https://komarev.com/ghpvc/?username=leonardoraele&color=blue&style=pixel)
+<!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,100:ffffff&height=100&fontColor=ffffff&section=header&text=Hi,%20there!%20%F0%9F%91%8B&fontSize=40&fontAlign=18&desc=Welcome%20to%20my%20profile&descSize=18&descAlign=43)
+-->
 
 <!--
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/940836/leonardo-raele)
@@ -6,10 +8,12 @@
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~leonardoraele)
 -->
 
-*Frontend-heavy Full-Stack web developer by profession. Game developer by hobby. (he/him/his)*
+# Hi, there! 👋
 
-I like to build dynamic user interfaces and tools using modern web technologies.
+I'm Leo, FullStack developer from Brazil. I like to build dynamic user interfaces and tools using modern web technologies.
+![Profile views](https://komarev.com/ghpvc/?username=leonardoraele&color=blue&style=pixel)
 
+> <img height="14" alt="Brazil" src="https://github.com/user-attachments/assets/a86ee7d2-0b82-4e4b-8c61-7df81e130b54" /> [Leia em Português.](./README.ptBR.md)
 
 <!--
 - 🔭 I’m currently working on ...
