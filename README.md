@@ -70,9 +70,9 @@ I like to build dynamic user interfaces and tools using modern web technologies.
 
 ## Contact
 
-- 📫 [leonardoraele@gmail.com](mailto:leonardoraele@gmail.com)
-- 👨🏻‍💻 https://linkedin.com/in/leonardoraele
-- 🎮 Dicord: `leonardoraele#4156`
+- <img height="14" alt="GMail" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/gmail.webp" /> [leonardoraele@gmail.com](mailto:leonardoraele@gmail.com)
+- <img height="14" alt="image" src="https://github.com/user-attachments/assets/c5814499-d6a2-4cb7-9788-03f6960e5ce3" /> [linkedin.com/in/leonardoraele](https://linkedin.com/in/leonardoraele)
+- <img height="14" alt="Discord" src="https://github.com/user-attachments/assets/f46c63ad-2c91-4445-a4b7-a02276aa55a4" /> [`leonardoraele#4156`](https://discord.com/users/179346093027491842)
 
 ### 💚 Like any of my projects?
 
