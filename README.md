@@ -36,6 +36,7 @@ I like to build dynamic user interfaces and tools using modern web technologies.
 
 - [play-state] A JavaScript event-driven state management framework for games with the flexibility of ECS and the dynamism of Event-Driven systems.
 - [dice-roller] Parser and evaluator of dice notations and mathematical expressions.
+- [private-field-inspect] Breaks JavaScript encapsulation to read objects' private class fields using Node.js Inspector API. Intended for debugging purposes only.
 
 ## Godot Projects (C#)
 
@@ -46,10 +47,6 @@ I like to build dynamic user interfaces and tools using modern web technologies.
 - [godot-animation-sprite-to-player]: A Godot plugin that copies animation data from AnimatedSprite2D into AnimationPlayer.
 - [godot-atlas-texture-importer]: A Godot 4.x plugin that automates the process of importing texture atlases by creating `AtlasTexture` resources from JSON atlas files.
 - `gastorm` (coming soon): A Godot 4 plugin that reimagines Unreal Engine's Gameplay Ability System for the Godot environment.
-
-## Experiments
-
-- [private-field-inspect] Breaks JavaScript encapsulation to read objects' private class fields using Node.js Inspector API. Intended for debugging purposes only.
 
 ## Contact
 
