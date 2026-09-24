@@ -11,7 +11,7 @@ Sou desenvolvedor FullStack. Gosto de construir interfaces dinâmicas e ferramen
 - 🌱 Estou sempre aprendendo algo novo.
 - 💬 Fale comigo sobre qualquer um dos meus projetos!
 - 🎮 Eu amo *video games* e jogos de tabuleiro.
-- ❤️ Minha espora é fantástica e minha cadela é a mais fofa de todas!
+- ❤️ Minha esposa é fantástica e minha cadela é a mais fofa de todas!
 
 <!--
 - 👨🏻‍💻 I’m currently working on my personal branding. How am I doing?
