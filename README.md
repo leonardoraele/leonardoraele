@@ -70,9 +70,15 @@ I like to build dynamic user interfaces and tools using modern web technologies.
 
 ## Contact
 
-- leonardoraele@gmail.com
-- https://linkedin.com/in/leonardoraele
-- `leonardoraele#4156`
+- 📫 [leonardoraele@gmail.com](mailto:leonardoraele@gmail.com)
+- 👨🏻‍💻 https://linkedin.com/in/leonardoraele
+- 🎮 Dicord: `leonardoraele#4156`
+
+### 💚 Like any of my projects?
+
+- 👀 Click on "Follow" :)
+- [☕ Buy me a coffee](https://buymeacoffee.com/leonardoraele)
+- 📱 Message me!
 
 [sigurd]: https://github.com/leonardoraele/sigurd
 [sigurd]: https://github.com/leonardoraele/sigurd
