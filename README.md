@@ -1,6 +1,4 @@
-<!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,100:ffffff&height=100&fontColor=ffffff&section=header&text=Hi,%20there!%20%F0%9F%91%8B&fontSize=40&fontAlign=18&desc=Welcome%20to%20my%20profile&descSize=18&descAlign=43)
--->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,100:ffffff&height=100&fontColor=ffffff&section=header&text=%F0%9F%91%8B%20Hi,%20I'm%20Leo!&fontSize=32&fontAlign=15&desc=Welcome%20to%20my%20profile.&descSize=16&descAlign=39&descAlignY=53)
 
 <!--
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/940836/leonardo-raele)
@@ -8,20 +6,23 @@
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~leonardoraele)
 -->
 
+<!--
 # Hi, there! 👋
+-->
 
-I'm Leo, FullStack developer from Brazil. I like to build dynamic user interfaces and tools using modern web technologies.
-![Profile views](https://komarev.com/ghpvc/?username=leonardoraele&color=blue&style=pixel)
+I'm a FullStack developer from Brazil. I like to build dynamic user interfaces and tools using modern web technologies.
 
 > <img height="14" alt="Brazil" src="https://github.com/user-attachments/assets/a86ee7d2-0b82-4e4b-8c61-7df81e130b54" /> [Leia em Português.](./README.ptBR.md)
 
+- 🌱 I’m always learning something new.
+- 💬 Ask me about any of my projects.
+- 🎮 I love video games and tabletop games.
+- ❤️ I have an amazing wife and the cutest of dogs.
+
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 👨🏻‍💻 I’m currently working on my personal branding. How am I doing?
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
 -->
 
 ### Skills & Stats
@@ -29,6 +30,10 @@ I'm Leo, FullStack developer from Brazil. I like to build dynamic user interface
 ![JavaScript, TypeScript, HTML, CSS, React, Vue, Ember, TailwindCSS, Vite, Vitest, Node.js, Express, MySQL, PostgreSQL, GitHub Actions, Docker, Git, Godot](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,ember,tailwind,vite,vitest,nodejs,express,mysql,postgresql,githubactions,docker,git,godot&perline=9)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leonardoraele)](https://git.io/streak-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=leonardoraele&color=blue&style=flat)
+[![LeetCode user leonardoraele](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fleonardoraele&logo=leetcode&logoColor=yellow)](https://leetcode.com/leonardoraele/)
+[![Stack Overflow](https://stackoverflow-badge.vercel.app/?userID=940836)](https://stackoverflow.com/users/940836/leonardo-raele)
 
 ## Projects
 
