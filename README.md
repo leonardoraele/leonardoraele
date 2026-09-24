@@ -17,6 +17,10 @@ I like to build dynamic user interfaces and tools using modern web technologies.
 - ⚡ Fun fact: ...
 -->
 
+### Skills
+
+![JavaScript, TypeScript, HTML, CSS, React, Vue, Ember, TailwindCSS, Vite, Vitest, Node.js, Express, MySQL, PostgreSQL, GitHub Actions, Docker, Git, Godot](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,ember,tailwind,vite,vitest,nodejs,express,mysql,postgresql,githubactions,docker,git,godot&perline=9)
+
 ## Projects
 
 ### ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
