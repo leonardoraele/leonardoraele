@@ -23,7 +23,18 @@ I like to build dynamic user interfaces and tools using modern web technologies.
 
 - [sigurd] A React state management library based on signals.
 
-## JS/TS Projects
+## Node Libraries
+
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+- [node-glob-import] Use glob patterns in `import` statements to load several modules at once in Node.js.
+- [node-yaml-loader] Adds the ability to directly import yaml files to Node.js.
+
+### Other Experiments
+
+- [private-field-inspect] Breaks JavaScript encapsulation to read objects' private class fields using Node.js Inspector API. Intended for debugging purposes only.
+
+## Other JS/TS Projects
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -45,17 +56,6 @@ I like to build dynamic user interfaces and tools using modern web technologies.
 
 - [play-state] A JavaScript event-driven state management framework for games with the flexibility of ECS and the dynamism of Event-Driven systems.
 - [dice-roller] Parser and evaluator of dice notations and mathematical expressions.
-
-## Node Libraries
-
-![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
-- [node-glob-import] Use glob patterns in `import` statements to load several modules at once in Node.js.
-- [node-yaml-loader] Adds the ability to directly import yaml files to Node.js.
-
-### Other Experiments
-
-- [private-field-inspect] Breaks JavaScript encapsulation to read objects' private class fields using Node.js Inspector API. Intended for debugging purposes only.
 
 ## Godot Projects (C#)
 
