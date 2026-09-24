@@ -1,3 +1,9 @@
+<!--
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/940836/leonardo-raele)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/leonardoraele/)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~leonardoraele)
+-->
+
 *Frontend-heavy Full-Stack web developer by profession. Game developer by hobby. (he/him/his)*
 
 I like to build dynamic user interfaces and tools using modern web technologies.
@@ -11,9 +17,17 @@ I like to build dynamic user interfaces and tools using modern web technologies.
 - ⚡ Fun fact: ...
 -->
 
+## React Libraries
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+- [sigurd] A React state management library based on signals.
+
 ## JS/TS Projects
 
-- **[sigurd] A React state management library based on signals.**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 - [signals] A framework-agnostic implementation of JavaScript signals with transparent control over effect scheduling.
 - [event-controller] A lightweight event emitter with separation of concerns between emitter and listener, inspired by the AbortController interface.
 - [extra-iterator] An extension of the Iterator class with several additional utility helper functions.
@@ -22,23 +36,30 @@ I like to build dynamic user interfaces and tools using modern web technologies.
 - [js-data-decorators] Addon to [js-data] that allows you to definine the schema using @Decorators.
 - `lidia3d` (coming soon) A 3D modeling software based on constructive solid geometry (CSG) and non-destructive workflow, built entirely on top of web technologies.
 
-## Node Libraries
-
-- [node-glob-import] Use glob patterns in `import` statements to load several modules at once in Node.js.
-- [node-yaml-loader] Adds the ability to directly import yaml files to Node.js.
-
-## JavaScript Ponyfills
+### Ponyfills
 
 - [async-iterator-helpers-ponyfill] A ponyfill implementation of tc39/proposal-async-iterator-helpers
 - [websocketstream-ponyfill] A ponyfill for the WebSocketStream interface and associated types.
 
-## Other JS/TS Experiments
+### Other Experiments
 
 - [play-state] A JavaScript event-driven state management framework for games with the flexibility of ECS and the dynamism of Event-Driven systems.
 - [dice-roller] Parser and evaluator of dice notations and mathematical expressions.
+
+## Node Libraries
+
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+- [node-glob-import] Use glob patterns in `import` statements to load several modules at once in Node.js.
+- [node-yaml-loader] Adds the ability to directly import yaml files to Node.js.
+
+### Other Experiments
+
 - [private-field-inspect] Breaks JavaScript encapsulation to read objects' private class fields using Node.js Inspector API. Intended for debugging purposes only.
 
 ## Godot Projects (C#)
+
+![Godot Engine](https://img.shields.io/badge/godotengine-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
 - [godot-reactivity] A reactivity framework for Godot that allows you to create reactive state that automatically updates the UI when changed. Inspired by the concept of signals from modern JavaScript UI frameworks.
 - [godot-supercon]: A flexible, fully configurable, and extensible character controller for 2D platformer games for Godot.
