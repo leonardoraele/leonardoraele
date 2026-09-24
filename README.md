@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,100:ffffff&height=130&fontColor=ffffff&section=header&text=%F0%9F%91%8B%20Hi,%20I'm%20Leo!&fontSize=32&fontAlign=15&fontAlignY=30&desc=Welcome%20to%20my%20profile.&descSize=16&descAlign=39&descAlignY=33)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,100:ffffff&height=130&fontColor=ffffff&section=header&text=%F0%9F%91%8B%20Hi,%20I'm%20Leo!&fontSize=32&fontAlign=15&fontAlignY=30&desc=Welcome%20to%20my%20profile.&descSize=20&descAlign=41&descAlignY=33)
 
 <!--
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/940836/leonardo-raele)
