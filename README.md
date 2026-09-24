@@ -65,7 +65,6 @@ I like to build dynamic user interfaces and tools using modern web technologies.
 
 ## ![Godot Engine](https://img.shields.io/badge/godotengine-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white) Godot Projects (C#)
 
-- [godot-reactivity] A reactivity framework for Godot that allows you to create reactive state that automatically updates the UI when changed. Inspired by the concept of signals from modern JavaScript UI frameworks.
 - [godot-supercon]: A flexible, fully configurable, and extensible character controller for 2D platformer games for Godot.
 - [godot-gdirector]: A Godot addon that provides a complete solution for operating 3D cameras with dynamic behavior, made with both cutscenes and gameplay in mind. Inspired by Unity's Cinemachine package.
 - [godot-polyshape-2d]: A Godot plugin that adds the Platform2D node, an extended Polygon2D with curved edges, automatic collision shape generation, and automatic edge sprite placement, ideal for sidescroller 2D games.
