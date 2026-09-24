@@ -12,7 +12,7 @@
 
 I'm a FullStack developer from Brazil. I like to build dynamic user interfaces and tools using modern web technologies.
 
-> <img height="14" alt="Brazil" src="https://github.com/user-attachments/assets/a86ee7d2-0b82-4e4b-8c61-7df81e130b54" /> [Leia em Português.](./README.ptBR.md)
+> <img height="14" alt="Brazil" src="https://github.com/user-attachments/assets/a86ee7d2-0b82-4e4b-8c61-7df81e130b54" /> [Leia em Português.](./README.pt-BR.md)
 
 - 🌱 I’m always learning something new.
 - 💬 Ask me about any of my projects.
