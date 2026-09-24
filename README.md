@@ -17,9 +17,11 @@ I like to build dynamic user interfaces and tools using modern web technologies.
 - ⚡ Fun fact: ...
 -->
 
-### Skills
+### Skills & Stats
 
 ![JavaScript, TypeScript, HTML, CSS, React, Vue, Ember, TailwindCSS, Vite, Vitest, Node.js, Express, MySQL, PostgreSQL, GitHub Actions, Docker, Git, Godot](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,ember,tailwind,vite,vitest,nodejs,express,mysql,postgresql,githubactions,docker,git,godot&perline=9)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leonardoraele)](https://git.io/streak-stats)
 
 ## Projects
 
