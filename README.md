@@ -22,6 +22,7 @@ I like to build dynamic user interfaces and tools using modern web technologies.
 ### ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 - [sigurd] A React state management library based on signals.
+- `lidia3d` (coming soon) A 3D modeling software based on constructive solid geometry (CSG) and non-destructive workflow, built on top of React and web technologies.
 
 ### ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -47,7 +48,6 @@ I like to build dynamic user interfaces and tools using modern web technologies.
   - [json-rpc-dual-engine] A Javascript JSON-RPC-2.0 transport protocol agnostic client and server engine.
   - [chai-eventemitter2] Chai plugin for testing node-style EventEmitters.
   - [js-data-decorators] Addon to [js-data] that allows you to definine the schema using @Decorators.
-  - `lidia3d` (coming soon) A 3D modeling software based on constructive solid geometry (CSG) and non-destructive workflow, built entirely on top of web technologies.
 
   #### Experiments
 
