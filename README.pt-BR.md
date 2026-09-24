@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,100:ffffff&height=100&fontColor=ffffff&section=header&text=%F0%9F%91%8B%20Ol%C3%A1,%20eu%20sou%20Leo!&fontSize=32&fontAlign=19&desc=Seja%20bem%20vinda.&descSize=16&descAlign=45&descAlignY=53)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,100:ffffff&height=130&fontColor=ffffff&section=header&text=%F0%9F%91%8B%20Ol%C3%A1,%20eu%20sou%20Leo!&fontSize=32&fontAlign=19&fontAlignY=30&desc=Seja%20bem%20vinda.&descSize=20&descAlign=47&descAlignY=33)
 <!--
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/940836/leonardo-raele)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/leonardoraele/)
