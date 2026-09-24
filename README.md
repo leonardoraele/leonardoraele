@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=leonardoraele&color=blue&style=pixel)
+
 <!--
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/940836/leonardo-raele)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/leonardoraele/)
@@ -7,6 +9,7 @@
 *Frontend-heavy Full-Stack web developer by profession. Game developer by hobby. (he/him/his)*
 
 I like to build dynamic user interfaces and tools using modern web technologies.
+
 
 <!--
 - 🔭 I’m currently working on ...
