@@ -50,8 +50,8 @@ Sou desenvolvedor FullStack. Gosto de construir interfaces dinâmicas e ferramen
 
   [Ponyfills](https://github.com/sindresorhus/ponyfill#whats-a-ponyfill) são como *polyfills*, mas as funcionalidades são exportadas do módulo ao invés de serem injetadas na aplicação, evitando assim a poluição do contexto global.
 
-  - [async-iterator-helpers-ponyfill] Implementação de [`tc39/proposal-async-iterator-helpers`](https://github.com/tc39/proposal-async-iterator-helpers) como Ponyfill.
-  - [websocketstream-ponyfill] Implementação de [`WebSocketStream`](https://developer.mozilla.org/en-US/docs/Web/API/WebSocketStream) como Ponyfill.
+  - [async-iterator-helpers-ponyfill] - Implementa [`tc39/proposal-async-iterator-helpers`](https://github.com/tc39/proposal-async-iterator-helpers)
+  - [websocketstream-ponyfill] - Implementa [`WebSocketStream`](https://developer.mozilla.org/en-US/docs/Web/API/WebSocketStream)
 
   #### Utilidade Geral
 
