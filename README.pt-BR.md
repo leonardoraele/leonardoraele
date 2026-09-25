@@ -85,7 +85,7 @@ Sou desenvolvedor FullStack. Gosto de construir interfaces dinâmicas e ferramen
 ### 💚 Curte um dos meus projetos?
 
 - 👀 Me siga no GitHub :)
-- [☕ Me compre um café](https://buymeacoffee.com/leonardoraele)
+- [☕ Me compra um café](https://buymeacoffee.com/leonardoraele) (ou PIX: `leonardoraele@gmail.com`)
 - 📱 Me manda uma mensagem!
 
 [sigurd]: https://github.com/leonardoraele/sigurd
